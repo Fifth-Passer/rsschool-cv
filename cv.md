@@ -1,3 +1,19 @@
-# Svyatoslav Duboshin
+1. # Name
+   Svyatoslav Duboshin
 
-## contacts
+2. # Contacts
+   Email: drozdovpetya@yandex.ru
+   discord: fifthpasser
+
+3. # About me
+   I want to gain new experience in js and may be to change my old job
+
+4. # Education
+   engineer technologist college
+   design engineer university
+
+5. # English level
+   Basic
+   
+6. # Code example in python
+   print('Hello, world!') 
